@@ -75,6 +75,17 @@ nav ul li a:hover{
     background: var(--btn-color);
     border-radius: 10px;
 }
+/* Estilização slideshow */
+#banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imgbanner{
+    width:600px ;
+    height: 600px;
+    
+}
 footer{
     text-align: center;
     padding: 40px;
